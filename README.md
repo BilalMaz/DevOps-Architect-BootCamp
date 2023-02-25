@@ -120,5 +120,5 @@ It is important to learn through hands On approach , so we going to set up our l
 
 [✔️] <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC licensing</a><br>
 
-[✔️] <a href="<https://docs.google.com/forms/d/e/1FAIpQLSeXRC6OyCrpkgJK8kpGOJXCV47dg49_yeXfvC5oaFTwtvIksQ/viewform?embedded=true">">Feedback</a><br>
+[✔️] <a href="<https://docs.google.com/forms/d/e/1FAIpQLSeXRC6OyCrpkgJK8kpGOJXCV47dg49_yeXfvC5oaFTwtvIksQ/viewformembedded=true">Feedback<a><br>
 
