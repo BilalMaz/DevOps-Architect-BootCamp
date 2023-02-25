@@ -108,3 +108,10 @@ It is important to learn through hands On approach , so we going to set up our l
 [✔️] 🗃️ 3  :  <a href="#">Microsoft Certified: Azure Fundamentals</a><br>
 [✔️] 🗃️ 4  :  <a href="#">Associate Cloud Engineer</a><br>
 
+
+# Monitoring, Log Management, and Data Visualisation
+[✔️] 🗃️ 1  :  <a href="#">Introduction to Monitoring , Logs and Virtualization</a><br>
+[✔️] 🗃️ 2  :  <a href="#">Splunk</a><br>
+[✔️] 🗃️ 3  :  <a href="#">PowerBI</a><br>
+[✔️] 🗃️ 4  :  <a href="#">Tablue</a><br>
+[✔️] 🗃️ 5  :  <a href="#">ELK</a><br>
