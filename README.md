@@ -38,8 +38,8 @@ This repository is used to document all the steps and roadmaps that contribute i
 [✔️] 🗃️ 9  :  <a href="#">Openeshift</a><br>
 [✔️] 🗃️ 10 :  <a href="#">OpenStack</a><br>
 [✔️] 🗃️ 11 :  <a href="#">Terrafrom </a><br>
-[✔️] 🗃️ 12 :  <a href="#">AWS Account-Setup</a><br>
-[✔️] 🗃️ 12 :  <a href="#">Networking Labsp</a><br>
+[✔️] 🗃️ 12 :  <a href="#">AWS Account - Setup</a><br>
+[✔️] 🗃️ 12 :  <a href="#">Networking Lab - setup</a><br>
 
 # Linux Administration  
 [✔️] 🗃️ 1  :  <a href="#">what is System Adminsitration ?</a><br>
