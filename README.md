@@ -2,11 +2,7 @@
 
 <p style="text-align:center;"><img src="Logo1.png" alt="Logo"></p>
 
-This repository is used to document all the steps and roadmaps that contribute in the learning "<b> DevOps</b> ". I will be continue this journey till the end of 2023. <br>
-
-The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.<br>
-
-This will not cover all things "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.<br>
+This repository is used to document all the steps and roadmaps that contribute in the learning "<b> DevOps</b> ". I will be continue this journey till the end of 2023. <br> The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.<br> This will not cover all things "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.<br>
 
 # Prerequisite for DevOps   
 [ Please find the introduction Services]
