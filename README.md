@@ -13,10 +13,14 @@ This repository is used to document all the steps and roadmaps that contribute i
 The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in/bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
 
 # Prerequisite for DevOps   
-[ Please find the introduction Services]
-
-
-
+DevOps is a methodology that focuses on collaboration and communication between software development teams and IT operations teams to streamline software delivery and improve efficiency. To become a DevOps practitioner, you need to have a solid foundation in several areas, including: <br> 
+1. Software Development <br> 
+2. System Administration <br>
+3. Automation <br>
+4. Cloud Computing <br>
+5. Collaboration and Communication <br>
+6. Continuous Integration and Continuous Deployment<br>
+7. Containers and Oreshtration
 
 
 
