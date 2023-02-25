@@ -8,8 +8,8 @@
 [✔️] 🐧 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Intruduction to Linux</a><br> 
 [✔️] ⌨️ 3  :  <a href="#">Introudction to Scripting Language</a><br> 
 [✔️] ⌨️ 4  :  <a href="#">Introudction to Python Prograaming </a><br>
-[✔️] ⌨️ 5  :  <a href="#">Introudction to Go prgramming </a>
-[✔️] ☁️ 6  :  <a href="#">Introudction to Cloud </a><br> 
+[✔️] ⌨️ 5  :  <a href="#">Introudction to Go prgramming </a><br>
+[✔️] ☁️ 6  :  <a href="#">Introudction to the Cloud </a><br> 
 
 # Labs Setup  
 [ Please fin the introduction Services]
