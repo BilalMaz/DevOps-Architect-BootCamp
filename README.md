@@ -1,7 +1,13 @@
 # DevOps-Architect BootCamp 
 
+<title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
 
-<img src="Logo1.png" alt="Girl in a jacket" width="300" height="300" style="algin : center;">
+
+<img src="Logo1.png" alt="Girl in a jacket" width="300" height="300" class=img-container>
 
 
 
