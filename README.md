@@ -6,7 +6,7 @@ This repository is used to document all the steps and roadmaps that contribute i
 
 <br>This will not cover all things "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.<br>
 
-<i>In this journey we will build the project</i> <br> 
+<i>In this journey we will build many projects</i> <br> 
 
 <p style="text-align:center;"><img src="DevOps.png" alt="Logo"></p>
 
