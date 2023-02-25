@@ -43,7 +43,7 @@ This repository is used to document all the steps and roadmaps that contribute i
 # Linux Administration  
 [✔️] 🗃️ 1  :  <a href="#">what is System Adminsitration ?</a><br>
 [✔️] 🗃️ 2  :  <a href="#">What are the tasks of Systems Adminstration?</a><br>
-✔️]  🗃️ 3  :  <a href="#">Day in life of Systems Administration</a><br>
+[✔️] 🗃️ 3  :  <a href="#">Day in life of Systems Administration</a><br>
 
 # Version Control 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
