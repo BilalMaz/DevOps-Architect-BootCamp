@@ -1,7 +1,7 @@
 # DevOps-Architect BootCamp 
 
 
-<img src="Logo1.png" alt="Girl in a jacket" width="300" height="300" class="center">
+<img src="Logo1.png" alt="Girl in a jacket" width="300" height="300" style="algin : center;">
 
 
 
