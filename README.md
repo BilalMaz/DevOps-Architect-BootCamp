@@ -120,4 +120,5 @@ It is important to learn through hands On approach , so we going to set up our l
 
 [✔️] <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC licensing</a><br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXRC6OyCrpkgJK8kpGOJXCV47dg49_yeXfvC5oaFTwtvIksQ/viewform?embedded=true" width="640" height="437" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+[✔️] <a href="<https://docs.google.com/forms/d/e/1FAIpQLSeXRC6OyCrpkgJK8kpGOJXCV47dg49_yeXfvC5oaFTwtvIksQ/viewform?embedded=true">">Feedback</a><br>
+
