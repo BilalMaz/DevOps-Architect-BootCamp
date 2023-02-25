@@ -1,8 +1,6 @@
 # DevOps-Architect BootCamp 
 
-<img src="Logo1.png" alt="Girl in a jacket" width="300" height="300" >
-
-
+<p style="text-align:center;"><img src="Logo1.png" alt="Logo"></p>
 
 [ Working on OSM tag lines :) ] 
 
