@@ -111,7 +111,7 @@ It is important to learn through hands On approach , so we going to set up our l
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Cloud</a><br>
 [✔️] 🗃️ 2  :  <a href="#">AWS Certified Cloud Practitioner</a><br>
 [✔️] 🗃️ 3  :  <a href="#">Microsoft Certified: Azure Fundamentals</a><br>
-[✔️] 🗃️ 4  :  <a href="#">Associate Cloud Engineer</a><br>
+[✔️] 🗃️ 4  :  <a href="#">Google Associate Cloud Engineer</a><br>
 
 
 # Monitoring, Log Management, and Data Visualisation
