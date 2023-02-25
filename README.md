@@ -51,6 +51,11 @@ It is important to learn through hands On approach , so we going to set up our l
 [✔️] 🗃️ 11 :  <a href="#">Terrafrom </a><br>
 [✔️] 🗃️ 12 :  <a href="#">AWS Account - Setup</a><br>
 [✔️] 🗃️ 12 :  <a href="#">Networking Lab - setup</a><br>
+[✔️] 🗃️ 13 :  <a href="#">Azure Account - Setup</a><br>
+[✔️] 🗃️ 14 :  <a href="#">google cloud Account - Setup</a><br>
+[✔️] 🗃️ 15 :  <a href="#">PowerBI</a><br>
+[✔️] 🗃️ 15 :  <a href="#">ELK</a><br>
+[✔️] 🗃️ 15 :  <a href="#">Tablue</a><br>
 
 # Linux Administration  
 
