@@ -14,7 +14,7 @@
 # Labs Setup  
 [ Please fin the introduction Services]
 
-[✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br> s
+[✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
 [✔️] 🗃️ 3  :  <a href="#">Linux</a><br> 
 [✔️] 🗃️ 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
