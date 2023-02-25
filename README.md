@@ -2,7 +2,7 @@
 [ Working on OSM tag lines :) ] 
 
 # Perrequsites 
-[ Please fin the introduction Services]
+[ Please find the introduction Services]
 
 [✔️] ♾️ 1 :   <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Introudction to DevOps</a> <br> 
 [✔️] 🐧 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Intruduction to Linux</a><br> 
@@ -14,7 +14,7 @@
 # Labs Setup  
 [ Please fin the introduction Services]
 
-[✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br> 
+[✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br> s
 [✔️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
 [✔️] 🗃️ 3  :  <a href="#">Linux</a><br> 
 [✔️] 🗃️ 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
