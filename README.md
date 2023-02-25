@@ -1,6 +1,6 @@
 # DevOps-Architect BootCamp 
 
-<img src="./logo.png" alt="Girl in a jacket" width="300" height="300">
+<img src="Logo.png" alt="Girl in a jacket" width="300" height="300">
 
 
 
