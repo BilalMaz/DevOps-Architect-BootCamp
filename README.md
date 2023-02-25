@@ -1,1 +1,1 @@
-# DevSecOps-Architect_Notes
+# DevOps-Architect_Notes
