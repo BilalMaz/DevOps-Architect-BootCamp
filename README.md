@@ -2,11 +2,6 @@
 
 <p style="text-align:center;"><img src="Logo1.png" alt="Logo"></p>
 
-[ Working on OSM tag lines :) ] 
-
-
-
-
 
 # Perrequsites 
 [ Please find the introduction Services]
@@ -35,6 +30,11 @@
 [✔️] 🗃️ 10 :  <a href="#">OpenStack</a><br>
 [✔️] 🗃️ 11 :  <a href="#">Terrafrom </a><br>
 [✔️] 🗃️ 12 :  <a href="#">AWS Account-Setup</a><br>
+
+# Linux Administration  
+[✔️] 🗃️ 1  :  <a href="#">what is System Adminsitration ?</a><br>
+[✔️] 🗃️ 2  :  <a href="#">What are the tasks of Systems Adminstration?</a><br>
+✔️] 🗃️  3  :  <a href="#">Day in life of Systems Administration</a><br>
 
 # Version Control 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
