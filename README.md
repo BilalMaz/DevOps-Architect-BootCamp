@@ -19,3 +19,5 @@
 [✔️] ⌨️ 1  :  <a href="#">Python || Go IDE's Installations</a><br> 
 [✔️] ⌨️ 1  :  <a href="#">Git ||  Github Installation and Configurations</a><br> 
 [✔️] ⌨️ 1  :  <a href="#">Jenskins Installation and Configuration </a><br> 
+[✔️] ⌨️ 1  :  <a href="#">Ansible Installation and Configuration </a><br>
+[✔️] ⌨️ 1  :  <a href="#">Kubernetes Installation and Configuration </a><br>
