@@ -66,8 +66,8 @@ It is important to learn through hands On approach , so we going to set up our l
 
 [✔️] 🗃️ 1  :  <a href="#">Introudction to Networking</a><br>
 [✔️] 🗃️ 2  :  <a href="#">OSI Model - 7 Layers of network</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Network Protocols</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Introduction to GNS3</a><br>
+[✔️] 🗃️ 3  :  <a href="#">Network Protocols</a><br>
+[✔️] 🗃️ 4  :  <a href="#">Introduction to GNS3</a><br>
 
 # Version Control 
 
@@ -90,9 +90,12 @@ It is important to learn through hands On approach , so we going to set up our l
 # Containers 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Containers</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Docker</a><br>
-[✔️] 🗃️ 1  :  <a href="#">Dokcer Projects</a><br>
+[✔️] 🗃️ 3  :  <a href="#">Dokcer Projects</a><br>
 
 # Kuberntes  
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Orchestration</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Kubernetes</a><br>
-[✔️] 🗃️ 1  :  <a href="#">Kubernetes Projects</a><br>
+[✔️] 🗃️ 3  :  <a href="#">Kubernetes Projects</a><br>
+
+# Learn Infrastructure as Code
+[✔️] 🗃️ 1  :  <a href="#">Introduction to IaC</a><br>
