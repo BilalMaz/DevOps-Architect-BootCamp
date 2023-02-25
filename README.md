@@ -2,9 +2,15 @@
 
 <p style="text-align:center;"><img src="Logo1.png" alt="Logo"></p>
 
+This repository is used to document all the steps and roadmaps that contribute in the learning "<b> DevOpos</b> "  
 
 # Prerequisite for DevOps   
 [ Please find the introduction Services]
+
+
+
+
+
 
 [✔️] ♾️ 1 :   <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Introudction to DevOps</a> <br> 
 [✔️] 🐧 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Intruduction to Linux</a><br> 
