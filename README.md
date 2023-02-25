@@ -78,7 +78,7 @@ It is important to learn through hands On approach , so we going to set up our l
 [✔️] 🗃️ 3  :  <a href="#">Github</a><br>
 [✔️] 🗃️ 4  :  <a href="#">GitLab</a><br>
 
-# CI / CD  
+# continuous integration and continuous deployment
 
 [ Please fin the introduction Services]
 
