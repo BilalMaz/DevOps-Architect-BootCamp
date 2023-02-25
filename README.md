@@ -9,6 +9,7 @@
 [✔️] ⌨️ 3  :  <a href="#">Introudction to Scripting Language</a><br> 
 [✔️] ⌨️ 4  :  <a href="#">Introudction to Python Prograaming </a><br>
 [✔️] ⌨️ 5  :  <a href="#">Introudction to Go prgramming </a><br>  
+[✔️] ☁️ 5  :  <a href="#">Introudction to Cloud </a><br> 
 
 # Labs Setup  
 [ Please fin the introduction Services]
