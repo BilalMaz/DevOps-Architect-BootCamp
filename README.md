@@ -12,6 +12,7 @@
 [✔️] ⌨️ 4  :  <a href="#">Introudction to Python Prograaming </a><br>
 [✔️] ⌨️ 5  :  <a href="#">Introudction to Go prgramming </a><br>
 [✔️] ☁️ 6  :  <a href="#">Introudction to the Cloud </a><br> 
+[✔️] ☁️ 6  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
 # Labs Setup  
 [ Please fin the introduction Services]
