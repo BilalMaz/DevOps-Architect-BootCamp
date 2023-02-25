@@ -15,6 +15,7 @@
 
 [✔️] ⌨️ 1  :  <a href="#">Tools of DevOps</a><br> 
 [✔️] ⌨️ 1  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
+[✔️] ⌨️ 1  :  <a href="#">Linux Installation</a><br> 
 [✔️] ⌨️ 1  :  <a href="#">Python || Go IDE's Installations</a><br> 
 [✔️] ⌨️ 1  :  <a href="#">Git ||  Github Installation and Configurations</a><br> 
 [✔️] ⌨️ 1  :  <a href="#">Jenskins Installation and Configuration </a><br> 
