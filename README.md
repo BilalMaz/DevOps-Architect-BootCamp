@@ -99,5 +99,5 @@ It is important to learn through hands On approach , so we going to set up our l
 
 # Learn Infrastructure as Code
 [✔️] 🗃️ 1  :  <a href="#">Introduction to IaC</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Ansible</a><br>
+[✔️] 🗃️ 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Ansible%20Up%20and%20Running.pdf">Ansible</a><br>
 [✔️] 🗃️ 3  :  <a href="#">Terraform</a><br>
