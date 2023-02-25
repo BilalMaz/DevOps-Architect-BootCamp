@@ -3,10 +3,13 @@
 
 <img src="Logo1.png" alt="Girl in a jacket" width="300" height="300" style="algin : center;">
 
-<a href='https://ko-fi.com/L3L5J18UU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 [ Working on OSM tag lines :) ] 
+
+
+<a href='https://ko-fi.com/L3L5J18UU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 # Perrequsites 
 [ Please find the introduction Services]
