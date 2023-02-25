@@ -5,7 +5,8 @@
 This repository is used to document all the steps and roadmaps that contribute in the learning "<b> DevOps</b> ". I will be continue this journey till the end of 2023. The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.
 
 <br> This will not cover all things "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.<br>
-In this journey we will build the project <br> 
+
+<i>In this journey we will build the project</i> <br> 
 
 <p style="text-align:center;"><img src="DevOps.png" alt="Logo"></p>
 
