@@ -31,4 +31,6 @@
 
 # Version Control 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
-[✔️] 🗃️ 1  :  <a href="#">GIT</a><br>
+[✔️] 🗃️ 2  :  <a href="#">GIT</a><br>
+[✔️] 🗃️ 3  :  <a href="#">Github</a><br>
+[✔️] 🗃️ 4  :  <a href="#">GitLab</a><br>
