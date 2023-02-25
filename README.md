@@ -6,6 +6,8 @@ This repository is used to document all the steps and roadmaps that contribute i
 
 <br> This will not cover all things "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.<br>
 
+The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in/bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
+
 # Prerequisite for DevOps   
 [ Please find the introduction Services]
 
@@ -63,6 +65,15 @@ This repository is used to document all the steps and roadmaps that contribute i
 [ Please fin the introduction Services]
 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
-[✔️] 🗃️ 2  :  <a href="#">GIT</a><br>
+[✔️] 🗃️ 2  :  <a href="#">Git</a><br>
 [✔️] 🗃️ 3  :  <a href="#">Github</a><br>
 [✔️] 🗃️ 4  :  <a href="#">GitLab</a><br>
+
+# CI / CD  
+
+[ Please fin the introduction Services]
+
+[✔️] 🗃️ 1  :  <a href="#">Introduction to CI / CD</a><br>
+[✔️] 🗃️ 2  :  <a href="#">Jenkins</a><br>
+[✔️] 🗃️ 3  :  <a href="#">GitLab CI/CD</a><br>
+[✔️] 🗃️ 4  :  <a href="#">CircleCI</a><br>
