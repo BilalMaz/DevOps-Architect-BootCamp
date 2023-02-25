@@ -33,7 +33,8 @@ DevOps is a methodology that focuses on collaboration and communication between 
 [✔️] ☁️ 6  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
 # Labs Setup  
-[ Please fin the introduction Services]
+
+It is important to learn through hands On approach , so we going to set up our labs on below mentioned tools
 
 [✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
