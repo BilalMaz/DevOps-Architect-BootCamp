@@ -1,4 +1,4 @@
-# DevOps-Architect_Notes
+# DevOps-Architect BootCamp 
 [ Working on OSM tag lines :) ] 
 
 # Perrequsites 
