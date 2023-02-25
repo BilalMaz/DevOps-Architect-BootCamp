@@ -3,7 +3,7 @@
 <p style="text-align:center;"><img src="Logo1.png" alt="Logo"></p>
 
 
-# prerequisite for DevOps   
+# Prerequisite for DevOps   
 [ Please find the introduction Services]
 
 [✔️] ♾️ 1 :   <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Introudction to DevOps</a> <br> 
