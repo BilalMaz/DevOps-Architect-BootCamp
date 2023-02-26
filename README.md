@@ -165,6 +165,13 @@ In the context of computing, "cloud" generally refers to a network of remote ser
 [✔️] 🗃️ 3  :  <a href="#">Microsoft Certified: Azure Fundamentals</a><br>
 [✔️] 🗃️ 4  :  <a href="#">Google Associate Cloud Engineer</a><br>
 
+# Cloud DevOps 
+Cloud DevOps refers to the practice of applying DevOps principles and practices to cloud-based infrastructure and applications. This involves using cloud-based services and tools to build, deploy, and manage applications, while also leveraging DevOps practices such as continuous integration and delivery, automation, and monitoring.
+
+[✔️] 🗃️ 1  :  <a href="#">Introduction to Cloud DevOps</a><br>
+[✔️] 🗃️ 2  :  <a href="#">AWS Certified DevOps Engineer </a><br>
+[✔️] 🗃️ 3  :  <a href="#">Microsoft Certified: DevOps Engineer Expert</a><br>
+[✔️] 🗃️ 4  :  <a href="#">Google Professional Cloud DevOps Engineer</a><br>
 
 # Monitoring, Log Management, and Data Visualisation
 Monitoring is an essential aspect of DevOps, as it enables teams to quickly detect and respond to issues in production environments. Monitoring involves collecting, analyzing, and visualizing data from applications and infrastructure, in order to identify trends, anomalies, and performance issues that may impact the user experience.
