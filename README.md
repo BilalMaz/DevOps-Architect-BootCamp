@@ -15,6 +15,9 @@ The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a 
 Learning strategy and calendar can be found here <a href="https://docs.google.com/document/d/1GxTxWSXyEEPv3Q8KJStBb8b5gdyV68lF0qoOpJdG49M/edit?usp=sharing">Calendar</a>
 
 
+[✔️] = Content Uploaded 
+[✖️] = Working on will upload
+
 # Prerequisite for DevOps   
 DevOps is a methodology that focuses on collaboration and communication between software development teams and IT operations teams to streamline software delivery and improve efficiency. To become a DevOps practitioner, you need to have a solid foundation in several areas, including: <br> 
 1. Software Development <br> 
@@ -29,14 +32,14 @@ DevOps is a methodology that focuses on collaboration and communication between 
 
 [✔️] ♾️ 1 :   <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Introudction to DevOps</a> <br> 
 [✔️] 🐧 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Intruduction to Linux</a><br> 
-[✔️] ⌨️ 3  :  <a href="#">Introudction to Scripting Language</a><br> 
-[✔️] ⌨️ 4  :  <a href="#">Introudction to Python Prograaming </a><br>
-[✔️] ⌨️ 5  :  <a href="#">Introudction to Go prgramming </a><br>
-[✔️] ☁️ 6  :  <a href="#">Introudction to the Cloud </a><br> 
-[✔️] ☁️ 6  :  <a href="#">Day in life of DevOps Engineer </a><br>
+[✖️] ⌨️ 3  :  <a href="#">Introudction to Scripting Language</a><br> 
+[✖️] ⌨️ 4  :  <a href="#">Introudction to Python Prograaming </a><br>
+[✖️] ⌨️ 5  :  <a href="#">Introudction to Go prgramming </a><br>
+[✖️] ☁️ 6  :  <a href="#">Introudction to the Cloud </a><br> 
+[✖️] ☁️ 6  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
 # Resources 
-[✔️] ⌨️ 1  :  <a href="#">DevOps Books</a><br>
+[✖️] ⌨️ 1  :  <a href="#">DevOps Books</a><br>
 
 
 # Labs Setup  
@@ -51,26 +54,26 @@ Some key reasons why hands-on experience is important in learning DevOps include
     4.Improving problem-solving skills: By working through real-world problems and challenges, you can develop your problem-solving skills and learn how to troubleshoot issues in a production environment.
     5.Developing a portfolio: Hands-on experience can help you build a portfolio of work that demonstrates your skills and experience to potential employers or clients.
 
-[✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
-[✔️] 🗃️ 3  :  <a href="#">Linux</a><br> 
-[✔️] 🗃️ 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
-[✔️] 🗃️ 5  :  <a href="#">Git</a><br> 
-[✔️] 🗃️ 5  :  <a href="#">Github</a><br> 
-[✔️] 🗃️ 6  :  <a href="#">Jenskins</a><br> 
-[✔️] 🗃️ 7  :  <a href="#">Ansible</a><br>
-[✔️] 🗃️ 7  :  <a href="#">Docker</a><br>
-[✔️] 🗃️ 8  :  <a href="#">Kubernetes</a><br>
-[✔️] 🗃️ 9  :  <a href="#">Openeshift</a><br>
-[✔️] 🗃️ 10 :  <a href="#">OpenStack</a><br>
-[✔️] 🗃️ 11 :  <a href="#">Terrafrom </a><br>
-[✔️] 🗃️ 12 :  <a href="#">AWS Account - Setup</a><br>
-[✔️] 🗃️ 12 :  <a href="#">Networking Lab - setup</a><br>
-[✔️] 🗃️ 13 :  <a href="#">Azure Account - Setup</a><br>
-[✔️] 🗃️ 14 :  <a href="#">Google cloud Account - Setup</a><br>
-[✔️] 🗃️ 15 :  <a href="#">PowerBI</a><br>
-[✔️] 🗃️ 16 :  <a href="#">ELK</a><br>
-[✔️] 🗃️ 17 :  <a href="#">Tablue</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
+[✖️] 🗃️ 3  :  <a href="#">Linux</a><br> 
+[✖️] 🗃️ 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
+[✖️] 🗃️ 5  :  <a href="#">Git</a><br> 
+[✖️] 🗃️ 5  :  <a href="#">Github</a><br> 
+[✖️] 🗃️ 6  :  <a href="#">Jenskins</a><br> 
+[✖️] 🗃️ 7  :  <a href="#">Ansible</a><br>
+[✖️] 🗃️ 7  :  <a href="#">Docker</a><br>
+[✖️] 🗃️ 8  :  <a href="#">Kubernetes</a><br>
+[✖️] 🗃️ 9  :  <a href="#">Openeshift</a><br>
+[✖️] 🗃️ 10 :  <a href="#">OpenStack</a><br>
+[✖️] 🗃️ 11 :  <a href="#">Terrafrom </a><br>
+[✖️] 🗃️ 12 :  <a href="#">AWS Account - Setup</a><br>
+[✖️] 🗃️ 12 :  <a href="#">Networking Lab - setup</a><br>
+[✖️] 🗃️ 13 :  <a href="#">Azure Account - Setup</a><br>
+[✖️] 🗃️ 14 :  <a href="#">Google cloud Account - Setup</a><br>
+[✖️] 🗃️ 15 :  <a href="#">PowerBI</a><br>
+[✖️] 🗃️ 16 :  <a href="#">ELK</a><br>
+[✖️] 🗃️ 17 :  <a href="#">Tablue</a><br>
 
 # Linux Administration  
 
@@ -86,9 +89,9 @@ Some common tasks involved in Linux administration include:
     6. Managing backups and disaster recovery processes
     7. Configuring and managing security features, including firewalls, intrusion detection and prevention, and access controls.
 
-[✔️] 🗃️ 1  :  <a href="#">what is System Adminsitration ?</a><br>
-[✔️] 🗃️ 2  :  <a href="#">What are the tasks of Systems Adminstration?</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Day in life of Systems Administration</a><br>
+[✖️] 🗃️ 1  :  <a href="#">what is System Adminsitration ?</a><br>
+[✖️] 🗃️ 2  :  <a href="#">What are the tasks of Systems Adminstration?</a><br>
+[✖️] 🗃️ 3  :  <a href="#">Day in life of Systems Administration</a><br>
 
 # Networking Fundamentals 
 
@@ -102,19 +105,19 @@ Networking fundamentals refer to the basic concepts, principles, and technologie
     6. Network security: This involves implementing measures to protect a network from unauthorized access, data breaches, and other security threats. Examples of network security measures include firewalls, VPNs, and encryption.
     7. Wireless networking: This involves the use of wireless technologies to connect devices to a network. Examples of wireless networking technologies include Wi-Fi, Bluetooth, and cellular networks
 
-[✔️] 🗃️ 1  :  <a href="#">Introudction to Networking</a><br>
-[✔️] 🗃️ 2  :  <a href="#">OSI Model - 7 Layers of network</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Network Protocols</a><br>
-[✔️] 🗃️ 4  :  <a href="#">Introduction to GNS3</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introudction to Networking</a><br>
+[✖️] 🗃️ 2  :  <a href="#">OSI Model - 7 Layers of network</a><br>
+[✖️] 🗃️ 3  :  <a href="#">Network Protocols</a><br>
+[✖️] 🗃️ 4  :  <a href="#">Introduction to GNS3</a><br>
 
 # Version Control 
 
 Version control is a system that enables you to manage changes to a file or set of files over time. It is commonly used in software development to track changes to source code, but it can also be used for other types of files such as documents, images, and configuration files.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Git</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Github</a><br>
-[✔️] 🗃️ 4  :  <a href="#">GitLab</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Git</a><br>
+[✖️] 🗃️ 3  :  <a href="#">Github</a><br>
+[✖️] 🗃️ 4  :  <a href="#">GitLab</a><br>
 
 # Continuous integration and Continuous deployment
 
@@ -123,19 +126,19 @@ Continuous Integration (CI) and Continuous Deployment (CD) are two related conce
       1. Continuous Integration (CI) is the practice of frequently merging code changes from multiple developers into a shared code repository. Each code change is automatically built and tested to detect integration errors early and prevent issues from being introduced into the codebase.
       2. Continuous Deployment (CD) is the practice of automatically deploying changes to the production environment after they have been built and tested in a staging or testing environment. This ensures that new features and bug fixes are delivered to users quickly and reliably.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to CI / CD</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Jenkins</a><br>
-[✔️] 🗃️ 3  :  <a href="#">GitLab CI/CD</a><br>
-[✔️] 🗃️ 4  :  <a href="#">CircleCI</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to CI / CD</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Jenkins</a><br>
+[✖️] 🗃️ 3  :  <a href="#">GitLab CI/CD</a><br>
+[✖️] 🗃️ 4  :  <a href="#">CircleCI</a><br>
 
 
 # Programming
 
-[✔️] 🗃️ 1  :  <a href="#">Python</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Python - Django</a><br>
-[✔️] 🗃️ 5  :  <a href="#">Java</a><br>
-[✔️] 🗃️ 7  :  <a href="#">Java Web Programming</a><br>
-[✔️] 🗃️ 9  :  <a href="#">Go</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Python</a><br>
+[✖️] 🗃️ 3  :  <a href="#">Python - Django</a><br>
+[✖️] 🗃️ 5  :  <a href="#">Java</a><br>
+[✖️] 🗃️ 7  :  <a href="#">Java Web Programming</a><br>
+[✖️] 🗃️ 9  :  <a href="#">Go</a><br>
 
 
 
@@ -148,8 +151,8 @@ A container is a lightweight, portable unit of software that encapsulates an app
      3.Efficiency: Containers are lightweight and can be started and stopped quickly, making them an efficient way to manage resources and reduce costs.
      4.Consistency: Containers provide a consistent runtime environment for applications, reducing the likelihood of configuration errors and compatibility issues.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to Containers</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Docker</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to Containers</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Docker</a><br>
 
 
 # Kubernetes 
@@ -161,41 +164,41 @@ Kubernetes, also known as K8s, is an open-source container orchestration platfor
      4.Scalability: Kubernetes enables applications to scale up or down based on demand, automatically provisioning or decommissioning resources as needed.
      5.ollouts and rollbacks: Kubernetes provides a way to manage updates and changes to applications, allowing for rollouts and rollbacks of new versions without disrupting service.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to Orchestration</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Kubernetes</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to Orchestration</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Kubernetes</a><br>
 
 
 # Learn Infrastructure as Code
 Infrastructure as Code (IaC) is a practice of defining and managing IT infrastructure using code, just like software applications. It involves using declarative or imperative code to automate the provisioning, configuration, and management of infrastructure resources such as servers, networks, storage, and applications.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to IaC</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to IaC</a><br>
 [✔️] 🗃️ 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Ansible%20Up%20and%20Running.pdf">Ansible</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Terraform</a><br>
+[✖️] 🗃️ 3  :  <a href="#">Terraform</a><br>
 
 # Cloud  
 In the context of computing, "cloud" generally refers to a network of remote servers that are used to store, manage, and process data and applications, rather than using a local server or personal computer. Cloud computing allows users to access computing resources, such as processing power, storage, and networking, over the internet on an on-demand basis, without the need for physical hardware or infrastructure.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to Cloud</a><br>
-[✔️] 🗃️ 2  :  <a href="#">AWS Certified Cloud Practitioner</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Microsoft Certified: Azure Fundamentals</a><br>
-[✔️] 🗃️ 4  :  <a href="#">Google Associate Cloud Engineer</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to Cloud</a><br>
+[✖️] 🗃️ 2  :  <a href="#">AWS Certified Cloud Practitioner</a><br>
+[✖️] 🗃️ 3  :  <a href="#">Microsoft Certified: Azure Fundamentals</a><br>
+[✖️] 🗃️ 4  :  <a href="#">Google Associate Cloud Engineer</a><br>
 
 # Cloud DevOps 
 Cloud DevOps refers to the practice of applying DevOps principles and practices to cloud-based infrastructure and applications. This involves using cloud-based services and tools to build, deploy, and manage applications, while also leveraging DevOps practices such as continuous integration and delivery, automation, and monitoring.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to Cloud DevOps</a><br>
-[✔️] 🗃️ 2  :  <a href="#">AWS Certified DevOps Engineer </a><br>
-[✔️] 🗃️ 3  :  <a href="#">Microsoft Certified: DevOps Engineer Expert</a><br>
-[✔️] 🗃️ 4  :  <a href="#">Google Professional Cloud DevOps Engineer</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to Cloud DevOps</a><br>
+[✖️] 🗃️ 2  :  <a href="#">AWS Certified DevOps Engineer </a><br>
+[✖️] 🗃️ 3  :  <a href="#">Microsoft Certified: DevOps Engineer Expert</a><br>
+[✖️] 🗃️ 4  :  <a href="#">Google Professional Cloud DevOps Engineer</a><br>
 
 # Monitoring, Log Management, and Data Visualisation
 Monitoring is an essential aspect of DevOps, as it enables teams to quickly detect and respond to issues in production environments. Monitoring involves collecting, analyzing, and visualizing data from applications and infrastructure, in order to identify trends, anomalies, and performance issues that may impact the user experience.
 
-[✔️] 🗃️ 1  :  <a href="#">Introduction to Monitoring , Logs and Virtualization</a><br>
-[✔️] 🗃️ 2  :  <a href="#">Splunk</a><br>
-[✔️] 🗃️ 3  :  <a href="#">PowerBI</a><br>
-[✔️] 🗃️ 4  :  <a href="#">Tablue</a><br>
-[✔️] 🗃️ 5  :  <a href="#">ELK</a><br>
+[✖️] 🗃️ 1  :  <a href="#">Introduction to Monitoring , Logs and Virtualization</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Splunk</a><br>
+[✖️] 🗃️ 3  :  <a href="#">PowerBI</a><br>
+[✖️] 🗃️ 4  :  <a href="#">Tablue</a><br>
+[✖️] 🗃️ 5  :  <a href="#">ELK</a><br>
 
 # License
 
