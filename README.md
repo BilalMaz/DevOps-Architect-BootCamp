@@ -131,12 +131,12 @@ A container is a lightweight, portable unit of software that encapsulates an app
 
 # Kubernetes 
 Kubernetes, also known as K8s, is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF).
-    1.Container orchestration: Kubernetes automates the deployment, scaling, and management of containerized applications, making it easy to manage large and complex deployments.
-    2.Self-healing: Kubernetes can automatically detect and recover from failures in the system, ensuring that applications are always available.
-    3.Load balancing: Kubernetes provides built-in load balancing for containerized applications, distributing traffic across multiple instances of an application.
-    4.Scalability: Kubernetes enables applications to scale up or down based on demand, automatically provisioning or decommissioning resources as needed.
-    5.ollouts and rollbacks: Kubernetes provides a way to manage updates and changes to applications, allowing for rollouts and rollbacks of new versions without disrupting service.
-    
+     1.Container orchestration: Kubernetes automates the deployment, scaling, and management of containerized applications, making it easy to manage large and complex deployments.
+     2.Self-healing: Kubernetes can automatically detect and recover from failures in the system, ensuring that applications are always available.
+     3.Load balancing: Kubernetes provides built-in load balancing for containerized applications, distributing traffic across multiple instances of an application.
+     4.Scalability: Kubernetes enables applications to scale up or down based on demand, automatically provisioning or decommissioning resources as needed.
+     5.ollouts and rollbacks: Kubernetes provides a way to manage updates and changes to applications, allowing for rollouts and rollbacks of new versions without disrupting service.
+
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Orchestration</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Kubernetes</a><br>
 [✔️] 🗃️ 3  :  <a href="#">Kubernetes Projects</a><br>
