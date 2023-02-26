@@ -80,8 +80,6 @@ Some common tasks involved in Linux administration include:
 
 # Networking Fundamentals 
 
-[ Please fin the introduction Services]
-
 Networking fundamentals refer to the basic concepts, principles, and technologies that underlie computer networking. Here are some key networking fundamentals:
 
     1. Network architecture: This refers to the design and layout of a computer network. It includes the physical components (such as servers, switches, routers, and cables) as well as the logical components (such as protocols and services) that define how the network functions.
