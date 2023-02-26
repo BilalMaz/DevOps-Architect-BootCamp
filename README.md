@@ -37,7 +37,15 @@ DevOps is a methodology that focuses on collaboration and communication between 
 
 # Labs Setup  
 
-It is important to learn through hands On approach , so we going to set up our labs on below mentioned tools
+Hands-on experience is essential to learning DevOps, as it provides an opportunity to apply theoretical knowledge in a practical setting, and to gain a deeper understanding of how DevOps tools and practices work in the real world.
+
+Some key reasons why hands-on experience is important in learning DevOps include:
+
+    1.Learning by doing: Hands-on experience allows you to actively engage with DevOps tools and practices, and to learn through trial and error. This can help to reinforce theoretical concepts, and to develop a more intuitive understanding of how things work.
+    2.Building practical skills: By working with DevOps tools and practices in a real-world setting, you can develop practical skills that are directly applicable to your work as a DevOps professional.
+    3.Gaining confidence: Hands-on experience can help to build confidence in your ability to work with DevOps tools and practices, and to tackle complex problems in a production environment.
+    4.Improving problem-solving skills: By working through real-world problems and challenges, you can develop your problem-solving skills and learn how to troubleshoot issues in a production environment.
+    5.Developing a portfolio: Hands-on experience can help you build a portfolio of work that demonstrates your skills and experience to potential employers or clients.
 
 [✔️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
