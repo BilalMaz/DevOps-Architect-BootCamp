@@ -128,6 +128,21 @@ Continuous Integration (CI) and Continuous Deployment (CD) are two related conce
 [✔️] 🗃️ 3  :  <a href="#">GitLab CI/CD</a><br>
 [✔️] 🗃️ 4  :  <a href="#">CircleCI</a><br>
 
+
+# Programming
+
+[✔️] 🗃️ 1  :  <a href="#">Python Programming</a><br>
+[✔️] 🗃️ 2  :  <a href="#">Python Prjects</a><br>
+[✔️] 🗃️ 3  :  <a href="#">Python - Django</a><br>
+[✔️] 🗃️ 4  :  <a href="#">Python - Django Projects</a><br>
+[✔️] 🗃️ 5  :  <a href="#">Java Programming</a><br>
+[✔️] 🗃️ 6  :  <a href="#">Java Projects</a><br>
+[✔️] 🗃️ 7  :  <a href="#">Java Web Programming</a><br>
+[✔️] 🗃️ 8  :  <a href="#">Java web Projects</a><br>
+[✔️] 🗃️ 9  :  <a href="#">Go</a><br>
+[✔️] 🗃️ 10  :  <a href="#">Go Projects</a><br>
+
+
 # Containers 
 
 A container is a lightweight, portable unit of software that encapsulates an application and its dependencies, allowing it to run consistently across different environments. Containers are an important technology for modern software development and deployment, particularly in the context of cloud computing and microservices architecture.
