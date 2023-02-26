@@ -131,6 +131,7 @@ A container is a lightweight, portable unit of software that encapsulates an app
 
 # Kubernetes 
 Kubernetes, also known as K8s, is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF).
+
      1.Container orchestration: Kubernetes automates the deployment, scaling, and management of containerized applications, making it easy to manage large and complex deployments.
      2.Self-healing: Kubernetes can automatically detect and recover from failures in the system, ensuring that applications are always available.
      3.Load balancing: Kubernetes provides built-in load balancing for containerized applications, distributing traffic across multiple instances of an application.
