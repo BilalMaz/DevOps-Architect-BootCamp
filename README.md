@@ -69,8 +69,8 @@ Some key reasons why hands-on experience is important in learning DevOps include
 [✔️] 🗃️ 13 :  <a href="#">Azure Account - Setup</a><br>
 [✔️] 🗃️ 14 :  <a href="#">Google cloud Account - Setup</a><br>
 [✔️] 🗃️ 15 :  <a href="#">PowerBI</a><br>
-[✔️] 🗃️ 15 :  <a href="#">ELK</a><br>
-[✔️] 🗃️ 15 :  <a href="#">Tablue</a><br>
+[✔️] 🗃️ 16 :  <a href="#">ELK</a><br>
+[✔️] 🗃️ 17 :  <a href="#">Tablue</a><br>
 
 # Linux Administration  
 
