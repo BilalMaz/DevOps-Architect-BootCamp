@@ -15,7 +15,7 @@ The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a 
 Learning strategy and calendar can be found here <a href="https://docs.google.com/document/d/1GxTxWSXyEEPv3Q8KJStBb8b5gdyV68lF0qoOpJdG49M/edit?usp=sharing">Calendar</a>
 
 
-[✔️] = Content Uploaded 
+[✔️] = Content Uploaded <br>
 [✖️] = Working on will upload
 
 # Prerequisite for DevOps   
