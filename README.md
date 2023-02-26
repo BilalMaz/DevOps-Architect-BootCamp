@@ -106,7 +106,10 @@ Version control is a system that enables you to manage changes to a file or set 
 
 # Continuous integration and Continuous deployment
 
-[ Please fin the introduction Services]
+Continuous Integration (CI) and Continuous Deployment (CD) are two related concepts in software development that aim to streamline the process of building, testing, and deploying software.
+
+      1. Continuous Integration (CI) is the practice of frequently merging code changes from multiple developers into a shared code repository. Each code change is automatically built and tested to detect integration errors early and prevent issues from being introduced into the codebase.
+      2. Continuous Deployment (CD) is the practice of automatically deploying changes to the production environment after they have been built and tested in a staging or testing environment. This ensures that new features and bug fixes are delivered to users quickly and reliably.
 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to CI / CD</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Jenkins</a><br>
