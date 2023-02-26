@@ -83,7 +83,7 @@ Some common tasks involved in Linux administration include:
 Networking fundamentals refer to the basic concepts, principles, and technologies that underlie computer networking. Here are some key networking fundamentals:
 
     1. Network architecture: This refers to the design and layout of a computer network. It includes the physical components (such as servers, switches, routers, and cables) as well as the logical components (such as protocols and services) that define how the network functions.
-    2.  Protocols: These are rules and standards that govern how data is transmitted over a network. Examples of common protocols include  TCP/IP, HTTP, and SMTP.
+    2. Protocols: These are rules and standards that govern how data is transmitted over a network. Examples of common protocols include  TCP/IP, HTTP, and SMTP.
     3. Network topologies: These refer to the physical layout of a network. Examples of network topologies include star, bus, and mesh.
     4. Network addressing: This involves assigning unique addresses to each device on the network, which enables them to communicate with each other. Common network addressing schemes include IP addressing and MAC addressing.
     5. Routing: This refers to the process of directing data packets between different networks. Routers are used to perform this function.
