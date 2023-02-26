@@ -15,8 +15,8 @@ The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a 
 Learning strategy and calendar can be found here <a href="https://docs.google.com/document/d/1GxTxWSXyEEPv3Q8KJStBb8b5gdyV68lF0qoOpJdG49M/edit?usp=sharing">Calendar</a>
 
 
-[✔️] = Content Uploaded <br>
-[✖️] = Working on will upload
+[✔️] = Content uploaded <br>
+[✖️] = Working on will upload soon
 
 # Prerequisite for DevOps   
 DevOps is a methodology that focuses on collaboration and communication between software development teams and IT operations teams to streamline software delivery and improve efficiency. To become a DevOps practitioner, you need to have a solid foundation in several areas, including: <br> 
