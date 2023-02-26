@@ -163,7 +163,7 @@ Kubernetes, also known as K8s, is an open-source container orchestration platfor
 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Orchestration</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Kubernetes</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Kubernetes Projects</a><br>
+
 
 # Learn Infrastructure as Code
 Infrastructure as Code (IaC) is a practice of defining and managing IT infrastructure using code, just like software applications. It involves using declarative or imperative code to automate the provisioning, configuration, and management of infrastructure resources such as servers, networks, storage, and applications.
