@@ -35,6 +35,10 @@ DevOps is a methodology that focuses on collaboration and communication between 
 [✔️] ☁️ 6  :  <a href="#">Introudction to the Cloud </a><br> 
 [✔️] ☁️ 6  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
+# Resources 
+[✔️] ⌨️ 1  :  <a href="#">DevOps Books</a><br>
+
+
 # Labs Setup  
 
 Hands-on experience is essential to learning DevOps, as it provides an opportunity to apply theoretical knowledge in a practical setting, and to gain a deeper understanding of how DevOps tools and practices work in the real world.
