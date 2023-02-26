@@ -150,7 +150,7 @@ A container is a lightweight, portable unit of software that encapsulates an app
 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Containers</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Docker</a><br>
-[✔️] 🗃️ 3  :  <a href="#">Docker Projects</a><br>
+
 
 # Kubernetes 
 Kubernetes, also known as K8s, is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF).
