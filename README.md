@@ -10,7 +10,10 @@ This repository is used to document all the steps and roadmaps that contribute i
 
 <p style="text-align:center;"><img src="DevOps.png" alt="Logo"></p>
 
-The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in/bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
+The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
+
+Learning stratgy and calendar can be found here <a href="#">Calendar</a>
+
 
 # Prerequisite for DevOps   
 DevOps is a methodology that focuses on collaboration and communication between software development teams and IT operations teams to streamline software delivery and improve efficiency. To become a DevOps practitioner, you need to have a solid foundation in several areas, including: <br> 
