@@ -97,7 +97,10 @@ Networking fundamentals refer to the basic concepts, principles, and technologie
 
 # Version Control 
 
-[ Please fin the introduction Services]
+Version control is a system that enables you to manage changes to a file or set of files over time. It is commonly used in software development to track changes to source code, but it can also be used for other types of files such as documents, images, and configuration files.
+    1. Version control works by creating a record, or "version," of each change made to a file, along with information such as who made the change and when it was made. This enables you to track the history of a file, revert to an earlier version if needed, and collaborate with others by sharing changes and resolving conflicts.
+    2. One of the key benefits of version control is that it enables you to work on multiple versions of a file concurrently, without the risk of overwriting or losing changes. It also provides a way to track changes over time, which can be useful for auditing purposes, troubleshooting, and maintaining an accurate history of your work.
+    3. Common version control systems include Git, Subversion, and Mercurial. These systems use different approaches to versioning, such as distributed vs. centralized version control, but they all share the core functionality of enabling you to manage changes to files over time.
 
 [✔️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
 [✔️] 🗃️ 2  :  <a href="#">Git</a><br>
