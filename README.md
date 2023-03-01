@@ -200,11 +200,6 @@ Monitoring is an essential aspect of DevOps, as it enables teams to quickly dete
 [✖️] 🗃️ 4  :  <a href="#">Tablue</a><br>
 [✖️] 🗃️ 5  :  <a href="#">ELK</a><br>
 
-# projects 
-
-[✖️] 🗃️ 1  :  <a href="#"></a><br>
-
-
 
 # License
 
