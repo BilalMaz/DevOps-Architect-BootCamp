@@ -92,9 +92,9 @@ Some common tasks involved in Linux administration include:
     6. Managing backups and disaster recovery processes
     7. Configuring and managing security features, including firewalls, intrusion detection and prevention, and access controls.
 
-[✖️] 🗃️ 1  :  <a href="#">what is System Adminsitration ?</a><br>
-[✖️] 🗃️ 2  :  <a href="#">What are the tasks of Systems Adminstration?</a><br>
-[✖️] 🗃️ 3  :  <a href="#">Day in life of Systems Administration</a><br>
+[✖️] 👨 1  :  <a href="#">what is System Adminsitration ?</a><br>
+[✖️] 📝 2  :  <a href="#">What are the tasks of Systems Adminstration?</a><br>
+[✖️] 🛡️ 3  :  <a href="#">Day in life of Systems Administrator</a><br>
 
 # Networking Fundamentals 
 
