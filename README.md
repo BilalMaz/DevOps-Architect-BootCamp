@@ -40,7 +40,7 @@ DevOps is a methodology that focuses on collaboration and communication between 
 
 # Resources 
 [✖️] ⌨️ 1  :  <a href="#">DevOps Books</a><br>
-[✔️] ⌨️ 1  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/tree/main/Scripts/Bash">Bash Scripting</a><br>
+[✔️] ⌨️ 1  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/tree/main/Scripts/Bash">Bash Practics Scripts</a><br>
 
 
 
