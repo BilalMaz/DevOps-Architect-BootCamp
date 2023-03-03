@@ -57,26 +57,26 @@ Some key reasons why hands-on experience is important in learning DevOps include
     4.Improving problem-solving skills: By working through real-world problems and challenges, you can develop your problem-solving skills and learn how to troubleshoot issues in a production environment.
     5.Developing a portfolio: Hands-on experience can help you build a portfolio of work that demonstrates your skills and experience to potential employers or clients.
 
-[✖️] 🗃️ 1  :  <a href="#">Tools of DevOps</a><br>
-[✖️] 🗃️ 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
-[✖️] 🗃️ 3  :  <a href="#">Linux</a><br> 
-[✖️] 🗃️ 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
-[✖️] 🗃️ 5  :  <a href="#">Git</a><br> 
-[✖️] 🗃️ 5  :  <a href="#">Github</a><br> 
-[✖️] 🗃️ 6  :  <a href="#">Jenskins</a><br> 
-[✖️] 🗃️ 7  :  <a href="#">Ansible</a><br>
-[✖️] 🗃️ 7  :  <a href="#">Docker</a><br>
-[✖️] 🗃️ 8  :  <a href="#">Kubernetes</a><br>
-[✖️] 🗃️ 9  :  <a href="#">Openeshift</a><br>
-[✖️] 🗃️ 10 :  <a href="#">OpenStack</a><br>
-[✖️] 🗃️ 11 :  <a href="#">Terrafrom </a><br>
-[✖️] 🗃️ 12 :  <a href="#">AWS Account - Setup</a><br>
-[✖️] 🗃️ 12 :  <a href="#">Networking Lab - setup</a><br>
-[✖️] 🗃️ 13 :  <a href="#">Azure Account - Setup</a><br>
-[✖️] 🗃️ 14 :  <a href="#">Google cloud Account - Setup</a><br>
-[✖️] 🗃️ 15 :  <a href="#">PowerBI</a><br>
-[✖️] 🗃️ 16 :  <a href="#">ELK</a><br>
-[✖️] 🗃️ 17 :  <a href="#">Tablue</a><br>
+[✖️] 🔬 1  :  <a href="#">Tools of DevOps</a><br>
+[✖️] 🔬 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
+[✖️] 🔬 3  :  <a href="#">Linux</a><br> 
+[✖️] 🔬 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
+[✖️] 🔬 5  :  <a href="#">Git</a><br> 
+[✖️] 🔬 5  :  <a href="#">Github</a><br> 
+[✖️] 🔬 6  :  <a href="#">Jenskins</a><br> 
+[✖️] 🔬 7  :  <a href="#">Ansible</a><br>
+[✖️] 🔬 7  :  <a href="#">Docker</a><br>
+[✖️] 🔬 8  :  <a href="#">Kubernetes</a><br>
+[✖️] 🔬 9  :  <a href="#">Openeshift</a><br>
+[✖️] 🔬 10 :  <a href="#">OpenStack</a><br>
+[✖️] 🔬 11 :  <a href="#">Terrafrom </a><br>
+[✖️] 🔬 12 :  <a href="#">AWS Account - Setup</a><br>
+[✖️] 🔬 12 :  <a href="#">Networking Lab - setup</a><br>
+[✖️] 🔬 13 :  <a href="#">Azure Account - Setup</a><br>
+[✖️] 🔬 14 :  <a href="#">Google cloud Account - Setup</a><br>
+[✖️] 🔬 15 :  <a href="#">PowerBI</a><br>
+[✖️] 🔬 16 :  <a href="#">ELK</a><br>
+[✖️] 🔬 17 :  <a href="#">Tablue</a><br>
 
 # Linux Administration  
 
