@@ -108,10 +108,10 @@ Networking fundamentals refer to the basic concepts, principles, and technologie
     6. Network security: This involves implementing measures to protect a network from unauthorized access, data breaches, and other security threats. Examples of network security measures include firewalls, VPNs, and encryption.
     7. Wireless networking: This involves the use of wireless technologies to connect devices to a network. Examples of wireless networking technologies include Wi-Fi, Bluetooth, and cellular networks
 
-[✖️] 🗃️ 1  :  <a href="#">Introudction to Networking</a><br>
-[✖️] 🗃️ 2  :  <a href="#">OSI Model - 7 Layers of network</a><br>
-[✖️] 🗃️ 3  :  <a href="#">Network Protocols</a><br>
-[✖️] 🗃️ 4  :  <a href="#">Introduction to GNS3</a><br>
+[✖️] 🌍 1  :  <a href="#">Introudction to Networking</a><br>
+[✖️] 🌍 2  :  <a href="#">OSI Model - 7 Layers of network</a><br>
+[✖️] 🌍 3  :  <a href="#">Network Protocols</a><br>
+[✖️] 🌍 4  :  <a href="#">Introduction to GNS3</a><br>
 
 # Version Control 
 
