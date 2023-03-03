@@ -34,7 +34,7 @@ DevOps is a methodology that focuses on collaboration and communication between 
 [✔️] ♾️ 1 :   <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Introudction to DevOps</a> <br> 
 [✔️] 🐧 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Linux%20-%20CrashCourse.pdf">Intruduction to Linux</a><br> 
 [✔️] 💥 3  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Introduction%20to%20Scripting.pdf">Introudction to Scripting Language</a><br> 
-[🚧] 🐍 4  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Python%20-%20Up%20and%20Running.pdf">Introudction to Python Programming </a><br>
+[✔️] 🐍 4  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Python%20-%20Up%20and%20Running.pdf">Introudction to Python Programming </a><br>
 [✖️] 🐹 5  :  <a href="#">Introudction to Go Programming </a><br>
 [✖️] ☁️ 6  :  <a href="#">Introudction to the Cloud </a><br> 
 [✖️] ♾️ 6  :  <a href="#">Day in life of DevOps Engineer </a><br>
