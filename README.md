@@ -117,10 +117,10 @@ Networking fundamentals refer to the basic concepts, principles, and technologie
 
 Version control is a system that enables you to manage changes to a file or set of files over time. It is commonly used in software development to track changes to source code, but it can also be used for other types of files such as documents, images, and configuration files.
 
-[✖️] 🗃️ 1  :  <a href="#">Introduction to Version Control</a><br>
-[✖️] 🗃️ 2  :  <a href="#">Git</a><br>
-[✖️] 🗃️ 3  :  <a href="#">Github</a><br>
-[✖️] 🗃️ 4  :  <a href="#">GitLab</a><br>
+[✖️] 🔙 1  :  <a href="#">Introduction to Version Control</a><br>
+[✖️] 🐙 2  :  <a href="#">Git</a><br>
+[✖️] 🐱 3  :  <a href="#">Github</a><br>
+[✖️] 🦊 4  :  <a href="#">GitLab</a><br>
 
 # Continuous integration and Continuous deployment
 
