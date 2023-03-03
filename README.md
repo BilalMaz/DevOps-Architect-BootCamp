@@ -16,7 +16,7 @@ Learning strategy and calendar can be found here <a href="https://docs.google.co
 
 
 [✔️] = Content uploaded <br>
-[✖️] = Working on will upload soon
+[✖️] = In - Progress
 
 # Prerequisite for DevOps   
 DevOps is a methodology that focuses on collaboration and communication between software development teams and IT operations teams to streamline software delivery and improve efficiency. To become a DevOps practitioner, you need to have a solid foundation in several areas, including: <br> 
