@@ -8,6 +8,8 @@ This repository is used to document all the steps and roadmaps that contribute i
 
 <i>In this journey we will build many projects</i> <br> 
 
+<b>On premises DevOps and infra</b> <br> 
+
 <p style="text-align:center;"><img src="DevOps.png" alt="Logo"></p>
 
 📌 The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
