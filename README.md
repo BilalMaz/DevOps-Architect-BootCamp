@@ -79,6 +79,7 @@ Some key reasons why hands-on experience is important in learning DevOps include
 [✖️] 🔬 15 :  <a href="#">PowerBI</a><br>
 [✖️] 🔬 16 :  <a href="#">ELK</a><br>
 [✖️] 🔬 17 :  <a href="#">Tablue</a><br>
+[✖️] 🔬 17 :  <a href="#">OpenStack</a><br>
 
 # Linux Administration  
 
@@ -171,6 +172,7 @@ Kubernetes, also known as K8s, is an open-source container orchestration platfor
 
 [✖️] 🗃️ 1  :  <a href="#">Introduction to Orchestration</a><br>
 [✖️] 🗃️ 2  :  <a href="#">Kubernetes</a><br>
+[✖️] 🗃️ 2  :  <a href="#">Openshift</a><br>
 
 
 # Learn Infrastructure as Code
@@ -204,6 +206,9 @@ Monitoring is an essential aspect of DevOps, as it enables teams to quickly dete
 [✖️] 🗃️ 3  :  <a href="#">PowerBI</a><br>
 [✖️] 🗃️ 4  :  <a href="#">Tablue</a><br>
 [✖️] 🗃️ 5  :  <a href="#">ELK</a><br>
+[✖️] 🗃️ 5  :  <a href="#">Nagios</a><br>
+[✖️] 🗃️ 5  :  <a href="#">Openstack</a><br>
+
 
 
 # License
