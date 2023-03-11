@@ -61,7 +61,7 @@ Some key reasons why hands-on experience is important in learning DevOps include
     4.Improving problem-solving skills: By working through real-world problems and challenges, you can develop your problem-solving skills and learn how to troubleshoot issues in a production environment.
     5.Developing a portfolio: Hands-on experience can help you build a portfolio of work that demonstrates your skills and experience to potential employers or clients.
 
-[✖️] 🔬 1  :  <a href="#">Tools of DevOps</a><br>
+[✔️] 🔬 1  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Tools%20-%20of%20Devops.pdf">Tools of DevOps</a><br>
 [✖️] 🔬 2  :  <a href="#">Vmware || VituaBox isntallations</a><br> 
 [✖️] 🔬 3  :  <a href="#">Linux</a><br> 
 [✖️] 🔬 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
