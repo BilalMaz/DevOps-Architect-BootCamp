@@ -213,11 +213,5 @@ Monitoring is an essential aspect of DevOps, as it enables teams to quickly dete
 
 
 
-# License
-
-[✔️] <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC licensing</a><br>
-
-
-
 [✔️] <a href="https://forms.gle/amZaPeuDkcAaPXhd6">Feedback<a><br>
 
