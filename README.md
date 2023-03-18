@@ -214,7 +214,7 @@ Monitoring is an essential aspect of DevOps, as it enables teams to quickly dete
 
 # Next Stop 
 
-<a href= "https://github.com/BilalMaz/DevSecOps-Architect-BootCamp"><p style="text-align:center;"><img src="DevsecOps_logo.png" alt="Logo"></p></a>
+<a href= "https://github.com/BilalMaz/DevSecOps-Architect-BootCamp"><img src="DevsecOps_logo.png" alt="Logo"></a>
 
 
 
