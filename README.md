@@ -212,6 +212,13 @@ Monitoring is an essential aspect of DevOps, as it enables teams to quickly dete
 [✖️] 🗃️ 5  :  <a href="#">Openstack</a><br>
 
 
+# Next Stop 
+
+<p style="text-align:center;"><img src="DevOps.png" alt="Logo"></p>
+
+
+
+
 
 [✔️] <a href="https://forms.gle/amZaPeuDkcAaPXhd6">Feedback<a><br>
 
