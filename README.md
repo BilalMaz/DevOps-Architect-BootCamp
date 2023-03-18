@@ -218,6 +218,5 @@ Monitoring is an essential aspect of DevOps, as it enables teams to quickly dete
 <p style="text-align:center;"><img src="DevsecOps_logo.png" alt="Logo"></p>
 
 
-
 [✔️] <a href="https://forms.gle/amZaPeuDkcAaPXhd6">Feedback<a><br>
 
