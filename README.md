@@ -70,7 +70,7 @@ Some key reasons why hands-on experience is important in learning DevOps include
 [✖️] 🔬 6  :  <a href="#">Jenskins</a><br> 
 [✖️] 🔬 7  :  <a href="#">Ansible</a><br>
 [✖️] 🔬 7  :  <a href="#">Docker</a><br>
-[✖️] 🔬 8  :  <a href="#">Kubernetes</a><br>
+[✔️] 🔬 8  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Kubernetes%20-%20installation%20.pdf">Kubernetes</a><br>
 [✖️] 🔬 9  :  <a href="#">Openeshift</a><br>
 [✖️] 🔬 10 :  <a href="#">OpenStack</a><br>
 [✖️] 🔬 11 :  <a href="#">Terrafrom </a><br>
