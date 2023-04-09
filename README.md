@@ -33,19 +33,19 @@ DevOps is a methodology that focuses on collaboration and communication between 
 
 
 
-[✔️] ♾️ 1 :   <a href="https://github.com/BilalMaz/DevOps-Architect_Notes/blob/main/Introduction_DevOps.pdf">Introudction to DevOps</a> <br> 
-[✔️] 🐧 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Linux%20-%20CrashCourse.pdf">Intruduction to Linux</a><br> 
-[✔️] 💥 3  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Introduction%20to%20Scripting.pdf">Introudction to Scripting Language</a><br> 
-[✔️] 🐍 4  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Python%20-%20Up%20and%20Running.pdf">Introudction to Python Programming </a><br>
-[✔️] 🐹 5  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Go%20-%20Up%20and%20Running.pdf">Introudction to Go Programming </a><br>
-[✔️] ☁️ 6  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Introduction%20to%20Cloud.pdf">Introudction to the Cloud </a><br> 
+[✔️] ♾️ 1 :   <a href="">Introudction to DevOps</a> <br> 
+[✔️] 🐧 2  :  <a href="">Intruduction to Linux</a><br> 
+[✔️] 💥 3  :  <a href="">Introudction to Scripting Language</a><br> 
+[✔️] 🐍 4  :  <a href="">Introudction to Python Programming </a><br>
+[✔️] 🐹 5  :  <a href="">Introudction to Go Programming </a><br>
+[✔️] ☁️ 6  :  <a href="">Introudction to the Cloud </a><br> 
 [✖️] ♾️ 7  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
 # Resources 
-[✖️] 📚 1  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/tree/main/Book">DevOps Books</a><br>
-[✔️] 📚 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/tree/main/Scripts/Bash">Bash Practics Scripts</a><br>
-[✔️] 📚 3  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/tree/main/Scripts/Python">Python Practics Scripts</a><br>
-[✔️] 📚 4  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/tree/main/Scripts/Go">GO Practics Scripts</a><br>
+[✖️] 📚 1  :  <a href="">DevOps Books</a><br>
+[✔️] 📚 2  :  <a href="">Bash Practics Scripts</a><br>
+[✔️] 📚 3  :  <a href="">Python Practics Scripts</a><br>
+[✔️] 📚 4  :  <a href="">GO Practics Scripts</a><br>
 
 
 
@@ -61,8 +61,8 @@ Some key reasons why hands-on experience is important in learning DevOps include
     4.Improving problem-solving skills: By working through real-world problems and challenges, you can develop your problem-solving skills and learn how to troubleshoot issues in a production environment.
     5.Developing a portfolio: Hands-on experience can help you build a portfolio of work that demonstrates your skills and experience to potential employers or clients.
 
-[✔️] 🔬 1  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Tools%20-%20of%20Devops.pdf">Tools of DevOps</a><br>
-[✔️] 🔬 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Vritual%20box%20-%20Installation%20.pdf">Vmware || VituaBox isntallations</a><br> 
+[✔️] 🔬 1  :  <a href="">Tools of DevOps</a><br>
+[✔️] 🔬 2  :  <a href="">Vmware || VituaBox isntallations</a><br> 
 [✖️] 🔬 3  :  <a href="#">Linux</a><br> 
 [✖️] 🔬 4  :  <a href="#">Python || Go IDE's Installations</a><br> 
 [✖️] 🔬 5  :  <a href="#">Git</a><br> 
@@ -70,7 +70,7 @@ Some key reasons why hands-on experience is important in learning DevOps include
 [✖️] 🔬 6  :  <a href="#">Jenskins</a><br> 
 [✖️] 🔬 7  :  <a href="#">Ansible</a><br>
 [✖️] 🔬 7  :  <a href="#">Docker</a><br>
-[✔️] 🔬 8  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Kubernetes%20-%20installation%20.pdf">Kubernetes</a><br>
+[✔️] 🔬 8  :  <a href="">Kubernetes</a><br>
 [✖️] 🔬 9  :  <a href="#">Openeshift</a><br>
 [✖️] 🔬 10 :  <a href="#">OpenStack</a><br>
 [✖️] 🔬 11 :  <a href="#">Terrafrom </a><br>
@@ -181,7 +181,7 @@ Kubernetes, also known as K8s, is an open-source container orchestration platfor
 Infrastructure as Code (IaC) is a practice of defining and managing IT infrastructure using code, just like software applications. It involves using declarative or imperative code to automate the provisioning, configuration, and management of infrastructure resources such as servers, networks, storage, and applications.
 
 [✖️] 🗃️ 1  :  <a href="#">Introduction to IaC</a><br>
-[✔️] 🗃️ 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/Ansible%20Up%20and%20Running.pdf">Ansible</a><br>
+[✔️] 🗃️ 2  :  <a href="">Ansible</a><br>
 [✖️] 🗃️ 3  :  <a href="#">Terraform</a><br>
 
 # Cloud  
