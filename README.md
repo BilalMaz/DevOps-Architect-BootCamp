@@ -1,6 +1,6 @@
 # DevOps-Architect BootCamp 
 
-<p style="text-align:center;"><img src="Logo1.png" alt="Logo"></p>
+<p style="text-align:center;"><img src="./logos/Logo1.png" alt="Logo"></p>
 
 This repository is used to document all the steps and roadmaps that contribute in the learning "<b> DevOps</b> ". I will be continue this journey till the end of 2023. The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.
 
