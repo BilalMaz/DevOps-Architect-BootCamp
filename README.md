@@ -33,14 +33,14 @@ DevOps is a methodology that focuses on collaboration and communication between 
 
 
 
-[✔️] ♾️ 1 :   <a href="">Introudction to DevOps</a> <br>
-[✔️] ♾️ 1 :   <a href="">12 Factor Application and its security</a> <br>
-[✔️] 🐧 2  :  <a href="">Intruduction to Linux</a><br> 
-[✔️] 💥 3  :  <a href="">Introudction to Scripting Language</a><br> 
-[✔️] 🐍 4  :  <a href="">Introudction to Python Programming </a><br>
-[✔️] 🐹 5  :  <a href="">Introudction to Go Programming </a><br>
-[✔️] ☁️ 6  :  <a href="">Introudction to the Cloud </a><br> 
-[✖️] ♾️ 7  :  <a href="#">Day in life of DevOps Engineer </a><br>
+[✔️] ♾️ 1  :  <a href="">Introudction to DevOps</a> <br>
+[✔️] ♾️ 2  :  <a href="">12 Factor Application and its security</a> <br>
+[✔️] 🐧 3  :  <a href="">Intruduction to Linux</a><br> 
+[✔️] 💥 4  :  <a href="">Introudction to Scripting Language</a><br> 
+[✔️] 🐍 5  :  <a href="">Introudction to Python Programming </a><br>
+[✔️] 🐹 6  :  <a href="">Introudction to Go Programming </a><br>
+[✔️] ☁️ 7  :  <a href="">Introudction to the Cloud </a><br> 
+[✖️] ♾️ 8  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
 # Resources 
 [✖️] 📚 1  :  <a href="">DevOps Books</a><br>
