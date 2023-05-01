@@ -33,14 +33,14 @@ DevOps is a methodology that focuses on collaboration and communication between 
 
 
 
-[✔️] ♾️ 1  :  <a href="">Introudction to DevOps</a> <br>
+[✔️] ♾️ 1  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Introduction_DevOps.pdf">Introudction to DevOps</a> <br>
 [✔️] ♾️ 2  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/12%20factor%20app.pdf">12 Factor Application and its security</a> <br>
 [✔️] 🐧 3  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Cloud%20Native%20.pdf">Intruduction to Cloud Native</a><br> 
-[✔️] 🐧 3  :  <a href="">Intruduction to Linux</a><br> 
-[✔️] 💥 4  :  <a href="">Introudction to Scripting Language</a><br> 
-[✔️] 🐍 5  :  <a href="">Introudction to Python Programming </a><br>
-[✔️] 🐹 6  :  <a href="">Introudction to Go Programming </a><br>
-[✔️] ☁️ 7  :  <a href="">Introudction to the Cloud </a><br> 
+[✔️] 🐧 3  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Linux%20-%20CrashCourse.pdf">Intruduction to Linux</a><br> 
+[✔️] 💥 4  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Introduction%20to%20Scripting.pdf">Introudction to Scripting Language</a><br> 
+[✔️] 🐍 5  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Python%20-%20Up%20and%20Running.pdf">Introudction to Python Programming </a><br>
+[✔️] 🐹 6  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Go%20-%20Up%20and%20Running.pdf">Introudction to Go Programming </a><br>
+[✔️] ☁️ 7  :  <a href="https://github.com/BilalMaz/DevOps-Architect-BootCamp/blob/main/PDFs/Introduction%20to%20Cloud.pdf">Introudction to the Cloud </a><br> 
 [✖️] ♾️ 8  :  <a href="#">Day in life of DevOps Engineer </a><br>
 
 # Resources 
