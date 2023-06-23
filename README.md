@@ -12,7 +12,7 @@ This repository is used to document all the steps and roadmaps that contribute i
 
 <p style="text-align:center;"><img src="./logos\DevOps.png" alt="Logo"></p>
 
-📌 The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
+📌 The quickest way to get in touch is going to be via LinkedIn, my handle is @ <a href="https://www.linkedin.com/in/bilalmazhar-cyber-security-consultant/">Bilal Mazhar </a>
 
 📅 Learning strategy and calendar can be found here <a href="https://docs.google.com/document/d/1GxTxWSXyEEPv3Q8KJStBb8b5gdyV68lF0qoOpJdG49M/edit?usp=sharing">Learning Plan</a>
 
