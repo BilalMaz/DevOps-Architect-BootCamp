@@ -191,7 +191,7 @@ Infrastructure as Code (IaC) is a practice of defining and managing IT infrastru
 In the context of computing, "cloud" generally refers to a network of remote servers that are used to store, manage, and process data and applications, rather than using a local server or personal computer. Cloud computing allows users to access computing resources, such as processing power, storage, and networking, over the internet on an on-demand basis, without the need for physical hardware or infrastructure.
 
 [✖️] 🗃️ 1  :  <a href="#">Introduction to Cloud</a><br>
-[✖️] 🗃️ 2  :  <a href="#">AWS Certified Cloud Practitioner</a><br>
+[✖️] 🗃️ 2  :  <a href="https://github.com/BilalMaz/Cloud-Engineer---AWS-/blob/main/README.md">AWS Certified Cloud Practitioner</a><br>
 [✖️] 🗃️ 3  :  <a href="#">Microsoft Certified: Azure Fundamentals</a><br>
 [✖️] 🗃️ 4  :  <a href="#">Google Associate Cloud Engineer</a><br>
 
