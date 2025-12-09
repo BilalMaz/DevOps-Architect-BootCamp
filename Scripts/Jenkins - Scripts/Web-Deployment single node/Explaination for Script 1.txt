@@ -1,0 +1,145 @@
+Line-by-Line Explanation
+pipeline {
+
+Starts the declarative pipeline block. Everything inside this defines the Jenkins job workflow.
+
+agent any
+
+Specifies that this pipeline can run on any available Jenkins agent.
+
+triggers { pollSCM('H/2 * * * *') }
+
+Sets up SCM polling: Jenkins will check the GitHub repository every 2 minutes for changes.
+
+H/2 = every 2 minutes, spread out across jobs.
+
+When changes are detected, Jenkins triggers a new build.
+
+environment { ... }
+
+Defines environment variables available throughout all stages.
+
+GITHUB_REPO = URL of the GitHub repository to clone.
+
+WEB_DIR = Path to Apache web root (/var/www/html on Ubuntu).
+
+APP_PORT = Port where the app will run (9090 in this case).
+
+stages { ... }
+
+Contains all the stages of the pipeline, each performing a specific task.
+
+Stage 1: Install Apache
+stage('Install Apache') {
+    steps {
+        sh '''
+        sudo apt update
+        sudo apt install -y apache2
+        '''
+    }
+}
+
+
+Updates system package list (apt update).
+
+Installs Apache (apache2) if not already installed.
+
+-y automatically confirms installation prompts.
+
+Stage 2: Configure Apache Port
+stage('Configure Apache Port') {
+    steps {
+        sh '''
+        sudo sed -i "s/Listen 80/Listen ${APP_PORT}/" /etc/apache2/ports.conf
+        sudo sed -i "s/<VirtualHost \\*:80>/<VirtualHost \\*:${APP_PORT}>/" /etc/apache2/sites-available/000-default.conf
+        '''
+    }
+}
+
+
+Changes Apache’s listening port from 80 (default) to the desired port (${APP_PORT}).
+
+Updates default virtual host to match the new port.
+
+sed -i edits the file in-place.
+
+Stage 3: Enable & Start Apache
+stage('Enable & Start Apache') {
+    steps {
+        sh '''
+        sudo systemctl enable apache2
+        sudo systemctl restart apache2
+        '''
+    }
+}
+
+
+Enables Apache to start at boot.
+
+Restarts Apache to apply the new port configuration.
+
+Stage 4: Clean Web Directory
+stage('Clean Web Directory') {
+    steps {
+        sh '''
+        sudo rm -rf ${WEB_DIR}/*
+        '''
+    }
+}
+
+
+Deletes all existing files in the web root to ensure a clean deployment.
+
+rm -rf is destructive; be careful to use the correct path.
+
+Stage 5: Clone Code from GitHub
+stage('Clone Code from GitHub') {
+    steps {
+        sh '''
+        rm -rf app
+        git clone ${GITHUB_REPO} app
+        '''
+    }
+}
+
+
+Deletes any old local copy of the repository.
+
+Clones the latest code from the GitHub repo into a local folder app.
+
+Stage 6: Deploy App
+stage('Deploy App') {
+    steps {
+        sh '''
+        sudo cp -r app/* ${WEB_DIR}/
+        sudo chown -R www-data:www-data ${WEB_DIR}
+        sudo chmod -R 755 ${WEB_DIR}
+        '''
+    }
+}
+
+
+Copies the code from app folder to Apache’s web root.
+
+Sets ownership to www-data (Apache user) so Apache can serve files.
+
+Sets permissions to 755 for proper read/execute access.
+
+Summary of the Pipeline
+
+Install Apache – Ensures Apache is installed.
+
+Configure custom port – Changes Apache port so it doesn’t conflict with Jenkins.
+
+Enable & start Apache – Starts Apache service and ensures it runs on boot.
+
+Clean old files – Removes previous deployments.
+
+Clone GitHub repo – Pulls latest code.
+
+Deploy code – Copies files to Apache, sets permissions.
+
+SCM Polling – Jenkins automatically checks GitHub for changes every 2 minutes and triggers the pipeline.
+
+Outcome:
+After execution, your web app will be accessible on the custom port (e.g., http://server-ip:9090) while Jenkins continues running on port 8080.
