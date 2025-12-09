@@ -1,0 +1,203 @@
+Line-by-line explanation (top → bottom)
+pipeline {
+
+Opens a Declarative Pipeline block which defines the whole job configuration (agents, environment, stages, etc).
+
+agent any
+
+Tells Jenkins to run this pipeline on any available agent/node. Useful in labs where you don’t need a specific label.
+
+environment { ... }
+
+Defines pipeline-wide environment variables (available in every sh step as ${VAR}):
+
+WP_DB_NAME — the MySQL database name for WordPress.
+
+WP_DB_USER — MySQL username created for WP.
+
+WP_DB_PASS — MySQL password for that user.
+
+APP_PORT — Apache will listen on this port (9090 by default).
+
+WEB_DIR — Apache web root (where WordPress files are copied).
+
+Using environment variables makes the pipeline configurable and easier to reuse.
+
+stages {
+
+Starts the block containing all build/deploy stages.
+
+Then each stage('Name') { steps { sh ''' ... ''' } } block is a logical step executed sequentially. Inside the sh triple-quotes is a multi-line shell script executed on the agent.
+
+Stage-by-stage explanation (what each stage does, and why)
+Stage: Install Required Packages
+sudo apt update
+sudo apt install -y apache2 mysql-server php php-mysql php-curl php-gd php-mbstring php-xml php-zip unzip wget
+
+
+What it does
+
+sudo apt update — refreshes the APT package index (so installs use latest metadata).
+
+sudo apt install -y ... — installs Apache (web server), MySQL server (database), PHP and common PHP extensions that WordPress needs, unzip and wget to fetch and extract WordPress.
+
+Why
+
+WordPress requires a LAMP stack (Linux, Apache, MySQL, PHP). This step ensures the server has all required packages.
+
+Notes
+
+-y automatically accepts prompts; in an interactive environment you may omit this for teaching.
+
+Stage: Configure Apache Port
+sudo sed -i "s/Listen 80/Listen ${APP_PORT}/" /etc/apache2/ports.conf
+sudo sed -i "s/<VirtualHost \\*:80>/<VirtualHost \\*:${APP_PORT}>/" /etc/apache2/sites-available/000-default.conf
+
+
+What it does
+
+Uses sed to replace 80 with ${APP_PORT} in:
+
+/etc/apache2/ports.conf (where Apache Listen directives live)
+
+/etc/apache2/sites-available/000-default.conf (default virtual host file)
+
+Why
+
+Your Jenkins server is running on port 8080; changing Apache to a different port (9090) avoids port conflicts and allows both Jenkins and the web app to run on same machine.
+
+Notes
+
+sed -i performs in-place editing. Backup files before running on production.
+
+Stage: Start Services
+sudo systemctl enable apache2
+sudo systemctl restart apache2
+sudo systemctl enable mysql
+sudo systemctl start mysql
+
+
+What it does
+
+enable ensures services start at boot.
+
+restart/start ensures services are running now.
+
+Why
+
+After installing and reconfiguring, services must be started so subsequent steps (DB creation, file copy) work.
+
+Stage: Configure MySQL Database
+sudo mysql -e "CREATE DATABASE IF NOT EXISTS ${WP_DB_NAME};"
+sudo mysql -e "CREATE USER IF NOT EXISTS '${WP_DB_USER}'@'localhost' IDENTIFIED BY '${WP_DB_PASS}';"
+sudo mysql -e "GRANT ALL PRIVILEGES ON ${WP_DB_NAME}.* TO '${WP_DB_USER}'@'localhost';"
+sudo mysql -e "FLUSH PRIVILEGES;"
+
+
+What it does
+
+Executes SQL commands using the mysql CLI (as root) to:
+
+Create database wordpress if not exists.
+
+Create a MySQL user wpuser with the specified password.
+
+Grant that user full privileges on the wordpress database.
+
+Flush privileges to apply immediately.
+
+Why
+
+WordPress needs a database and a DB user to store posts, options, users, etc.
+
+Notes
+
+Using a clear-text password in pipeline is fine for labs but not secure for production. Use Jenkins Credentials or secrets for real deployments.
+
+Stage: Download & Setup WordPress
+cd /tmp
+sudo rm -rf wordpress*
+sudo wget https://wordpress.org/latest.zip
+sudo unzip -o latest.zip
+
+sudo rm -rf ${WEB_DIR}/*
+sudo cp -r wordpress/* ${WEB_DIR}/
+
+
+What it does
+
+Switches to /tmp (workspace for downloads).
+
+Removes any previous wordpress* files there.
+
+Downloads the latest WordPress ZIP.
+
+Unzips it.
+
+Clears the web root (/var/www/html) and copies WordPress files there.
+
+Why
+
+Ensures the webroot contains a fresh WordPress copy. Using /tmp avoids cluttering other directories.
+
+Notes
+
+rm -rf ${WEB_DIR}/* is destructive—ensure WEB_DIR is correct in the lab environment.
+
+Stage: Configure WordPress
+cd ${WEB_DIR}
+sudo cp wp-config-sample.php wp-config.php
+
+sudo sed -i "s/database_name_here/${WP_DB_NAME}/" wp-config.php
+sudo sed -i "s/username_here/${WP_DB_USER}/" wp-config.php
+sudo sed -i "s/password_here/${WP_DB_PASS}/" wp-config.php
+
+sudo chown -R www-data:www-data ${WEB_DIR}
+sudo chmod -R 755 ${WEB_DIR}
+
+
+What it does
+
+Copies the sample config to wp-config.php.
+
+Replaces placeholders with real DB name, user, and password.
+
+Sets ownership to www-data (Apache user) and correct directory permissions.
+
+Why
+
+The config file tells WordPress how to connect to MySQL.
+
+Ownership and permissions ensure Apache can read (and where needed, write) files.
+
+Notes
+
+You may also set WordPress salts (AUTH_KEYS) for increased security — in lab this can be omitted or generated.
+
+Stage: Restart Apache
+sudo systemctl restart apache2
+
+
+What it does
+
+Restarts Apache to ensure new virtual host and permissions are active.
+
+Why
+
+Finalize configuration so the site is served on the new port with updated files.
+
+End-to-end summary (one-liner per stage)
+
+Install Required Packages — installs LAMP stack + tools.
+
+Configure Apache Port — change Apache listen and vhost port to avoid conflict with Jenkins.
+
+Start Services — enable and start Apache and MySQL.
+
+Configure MySQL Database — create DB and user for WordPress.
+
+Download & Setup WordPress — fetch WordPress zip and copy files to web root.
+
+Configure WordPress — create wp-config.php, set DB credentials, set file ownership/permissions.
+
+Restart Apache — apply config and make site live.
