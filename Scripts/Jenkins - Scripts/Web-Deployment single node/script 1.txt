@@ -1,0 +1,72 @@
+pipeline {
+    agent any
+
+    triggers {
+        pollSCM('H/2 * * * *')
+    }
+
+    environment {
+        GITHUB_REPO = 'https://github.com/BilalMaz/CloudApp.git'
+        WEB_DIR = '/var/www/html'
+        APP_PORT = '9090'
+    }
+
+    stages {
+
+        stage('Install Apache') {
+            steps {
+                sh '''
+                sudo apt update
+                sudo apt install -y apache2
+                '''
+            }
+        }
+
+        stage('Configure Apache Port') {
+            steps {
+                sh '''
+                sudo sed -i "s/Listen 80/Listen ${APP_PORT}/" /etc/apache2/ports.conf
+
+                # Also update default virtual host port
+                sudo sed -i "s/<VirtualHost \\*:80>/<VirtualHost \\*:${APP_PORT}>/" /etc/apache2/sites-available/000-default.conf
+                '''
+            }
+        }
+
+        stage('Enable & Start Apache') {
+            steps {
+                sh '''
+                sudo systemctl enable apache2
+                sudo systemctl restart apache2
+                '''
+            }
+        }
+
+        stage('Clean Web Directory') {
+            steps {
+                sh '''
+                sudo rm -rf ${WEB_DIR}/*
+                '''
+            }
+        }
+
+        stage('Clone Code from GitHub') {
+            steps {
+                sh '''
+                rm -rf app
+                git clone ${GITHUB_REPO} app
+                '''
+            }
+        }
+
+        stage('Deploy App') {
+            steps {
+                sh '''
+                sudo cp -r app/* ${WEB_DIR}/
+                sudo chown -R www-data:www-data ${WEB_DIR}
+                sudo chmod -R 755 ${WEB_DIR}
+                '''
+            }
+        }
+    }
+}
