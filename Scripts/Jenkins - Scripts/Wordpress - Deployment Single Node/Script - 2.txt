@@ -1,0 +1,92 @@
+pipeline {
+    agent any
+
+    environment {
+        WP_DB_NAME = 'wordpress'
+        WP_DB_USER = 'wpuser'
+        WP_DB_PASS = 'wp_pass_123'
+        APP_PORT  = '9090'
+        WEB_DIR   = '/var/www/html'
+    }
+
+    stages {
+
+        stage('Install Required Packages') {
+            steps {
+                sh '''
+                sudo apt update
+                sudo apt install -y apache2 mysql-server php php-mysql php-curl php-gd php-mbstring php-xml php-zip unzip wget
+                '''
+            }
+        }
+
+        stage('Configure Apache Port') {
+            steps {
+                sh '''
+                sudo sed -i "s/Listen 80/Listen ${APP_PORT}/" /etc/apache2/ports.conf
+                sudo sed -i "s/<VirtualHost \\*:80>/<VirtualHost \\*:${APP_PORT}>/" /etc/apache2/sites-available/000-default.conf
+                '''
+            }
+        }
+
+        stage('Start Services') {
+            steps {
+                sh '''
+                sudo systemctl enable apache2
+                sudo systemctl restart apache2
+                sudo systemctl enable mysql
+                sudo systemctl start mysql
+                '''
+            }
+        }
+
+        stage('Configure MySQL Database') {
+            steps {
+                sh '''
+                sudo mysql -e "CREATE DATABASE IF NOT EXISTS ${WP_DB_NAME};"
+                sudo mysql -e "CREATE USER IF NOT EXISTS '${WP_DB_USER}'@'localhost' IDENTIFIED BY '${WP_DB_PASS}';"
+                sudo mysql -e "GRANT ALL PRIVILEGES ON ${WP_DB_NAME}.* TO '${WP_DB_USER}'@'localhost';"
+                sudo mysql -e "FLUSH PRIVILEGES;"
+                '''
+            }
+        }
+
+        stage('Download & Setup WordPress') {
+            steps {
+                sh '''
+                cd /tmp
+                sudo rm -rf wordpress*
+                sudo wget https://wordpress.org/latest.zip
+                sudo unzip -o latest.zip
+
+                sudo rm -rf ${WEB_DIR}/*
+                sudo cp -r wordpress/* ${WEB_DIR}/
+                '''
+            }
+        }
+
+        stage('Configure WordPress') {
+            steps {
+                sh '''
+                cd ${WEB_DIR}
+                sudo cp wp-config-sample.php wp-config.php
+
+                sudo sed -i "s/database_name_here/${WP_DB_NAME}/" wp-config.php
+                sudo sed -i "s/username_here/${WP_DB_USER}/" wp-config.php
+                sudo sed -i "s/password_here/${WP_DB_PASS}/" wp-config.php
+
+                sudo chown -R www-data:www-data ${WEB_DIR}
+                sudo chmod -R 755 ${WEB_DIR}
+                '''
+            }
+        }
+
+        stage('Restart Apache') {
+            steps {
+                sh '''
+                sudo systemctl restart apache2
+                '''
+            }
+        }
+    }
+}
